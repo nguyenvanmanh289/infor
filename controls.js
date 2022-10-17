@@ -126,7 +126,7 @@ function makeadsin5s(){
         loopz();
         playVid();
      }
-    setTimeout(HIDE,37000);
+    setTimeout(HIDE,34000);
 }
 
 function makeadsinend(){
@@ -144,7 +144,7 @@ function makeadsinend(){
        
        const u= document.getElementsByTagName("p")[1];
        u.style.fontSize ="60px"
-       const c ="CẢM ƠN CÔ VÀ <br>CÁC BẠN ĐÃ XEM 😂😂👌";
+       const c ="CẢM ƠN CÔ VÀ <br>CÁC BẠN ĐÃ XEM 👌";
        u.innerHTML = c;
          
         document.querySelector("html").style.backgroundColor ="#00FF00";
