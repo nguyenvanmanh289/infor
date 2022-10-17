@@ -163,7 +163,7 @@ function ads(){
 
     setTimeout( makeadsin5s,20000);
     setTimeout(function(){alert("Chương Trình Quảng Cáo")},20000);
-    setTimeout(makeadsinend,130000);
+    setTimeout(makeadsinend,130500);
     
 }
 
